@@ -15,4 +15,5 @@ console.log(years(1));
 console.log(years(2));
 console.log(years(3));
 console.log(years(4));
-console.log(years(18));
+console.log(years(5));
+console.log(years(10));
